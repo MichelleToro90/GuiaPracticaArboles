@@ -1,0 +1,14 @@
+C:\Users\User\GuiaPracticaArboles\bin\Debug\net10.0\GuiaPracticaArboles.exe
+C:\Users\User\GuiaPracticaArboles\bin\Debug\net10.0\GuiaPracticaArboles.deps.json
+C:\Users\User\GuiaPracticaArboles\bin\Debug\net10.0\GuiaPracticaArboles.runtimeconfig.json
+C:\Users\User\GuiaPracticaArboles\bin\Debug\net10.0\GuiaPracticaArboles.dll
+C:\Users\User\GuiaPracticaArboles\bin\Debug\net10.0\GuiaPracticaArboles.pdb
+C:\Users\User\GuiaPracticaArboles\obj\Debug\net10.0\GuiaPracticaArboles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\GuiaPracticaArboles\obj\Debug\net10.0\GuiaPracticaArboles.AssemblyInfoInputs.cache
+C:\Users\User\GuiaPracticaArboles\obj\Debug\net10.0\GuiaPracticaArboles.AssemblyInfo.cs
+C:\Users\User\GuiaPracticaArboles\obj\Debug\net10.0\GuiaPracticaArboles.csproj.CoreCompileInputs.cache
+C:\Users\User\GuiaPracticaArboles\obj\Debug\net10.0\GuiaPracticaArboles.dll
+C:\Users\User\GuiaPracticaArboles\obj\Debug\net10.0\refint\GuiaPracticaArboles.dll
+C:\Users\User\GuiaPracticaArboles\obj\Debug\net10.0\GuiaPracticaArboles.pdb
+C:\Users\User\GuiaPracticaArboles\obj\Debug\net10.0\GuiaPracticaArboles.genruntimeconfig.cache
+C:\Users\User\GuiaPracticaArboles\obj\Debug\net10.0\ref\GuiaPracticaArboles.dll
